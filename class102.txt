@@ -1,0 +1,9 @@
+capture image using web cam(use opencv )python 
+program which capture the image and upload to dropbox
+this can be use as a security system for our pc
+
+
+
+opencv is a python library which can be use to capture images manipulate images and perform other kinds of images processing work 
+
+pip3 install opencv-python
